@@ -1,0 +1,77 @@
+.notify_me.bg-white.border-all {
+    margin-bottom: 15px;
+}
+
+.border-all {
+    border: 2px solid #0000002b;
+    padding: 18px;
+}
+.Polaris-Card {
+    background: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.Polaris-Card__Header {
+    padding-left: 0 !important;
+    padding-top: 10px !important;
+    position: relative;
+}
+.Polaris-Card__Section {
+    padding-left: 0 !important;
+}
+.notify_me_form {
+    margin-top: 15px;
+}
+.blockes {
+    margin-bottom: 40px;
+}
+.notify_number_block {
+    display: flex;
+}
+.notify_number .Polaris-Select {
+    width: 80px;
+    height: 44px;
+    display: flex;
+}
+.flag_box .Polaris-Select__Content {
+    padding-left: 10px;
+}
+.flag_box span.Polaris-Select__SelectedOption {
+    font-size: 26px;
+}
+.flag_box .Polaris-Select__Backdrop {
+    border: 2px solid #00000026;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+.number_box {
+    width: 100%;
+    margin-left: 20px;
+}
+.input_fields {
+    display: flex;
+    position: relative;
+}
+.preview_notify .input .btn_text {
+    width: 100%;
+}
+.notify_me .input .btn_text {
+    width: 100%;
+}
+.notify_btn.blockes {
+    margin-bottom: 30px;
+}
+button.btn.btn-notify {
+    background: #4b5c6b;
+    color: white;
+    width: 100%;
+    text-align: center;
+    display: block;
+    padding: 6px;
+    font-size: 1.2rem;
+}
+.info {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 8px;
+}
